@@ -1,0 +1,11 @@
+import java.io.*;
+public class consoleio
+{
+public static void main(String[] args)throws IoException
+{
+try
+{
+int i;
+float f;
+string sname;
+BufferedReader br = new BufferedReader ( new InputStreamReader(system.in));
